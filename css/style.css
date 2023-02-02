@@ -134,4 +134,9 @@ article {
 }
 nav ul li a:hover {
   opacity: 10;
+  color: red;
+}
+menu {
+  background-color: black;
+  color: aqua;
 }
