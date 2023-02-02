@@ -132,3 +132,6 @@ article {
   background-color: aqua;
   color: black;
 }
+nav ul li a:hover {
+  opacity: 10;
+}
