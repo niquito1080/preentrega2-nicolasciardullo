@@ -1,0 +1,20 @@
+{
+  "name": "entrega-de-proyecto-practicas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niquito1080/preentrega2-nicolasciardullo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niquito1080/preentrega2-nicolasciardullo/issues"
+  },
+  "homepage": "https://github.com/niquito1080/preentrega2-nicolasciardullo#readme"
+}
