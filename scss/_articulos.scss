@@ -1,0 +1,36 @@
+.articulo {
+  color: aliceblue;
+  margin: 0%;
+  text-align: left;
+  font-size: 4rem;
+}
+.articulo_especificaciones {
+  color: white;
+  background-color: black;
+  font-size: large;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.articulo__nosotros {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  background-color: black;
+  color: gray;
+  border: 15% 20%;
+  border-color: red;
+}
+
+.ayuda {
+  background-color: black;
+  color: gray;
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+}
+article {
+  background-color: $color-fondo;
+  color: $color-texto;
+}
