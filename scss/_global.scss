@@ -3,7 +3,8 @@
   color: aqua;
   text-align: center;
   font-size: 20px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "East Sea Dokdo", cursive;
+  font-family: "Seymour One", sans-serif;
   padding: 1%;
   text-transform: capitalize;
 }
@@ -23,7 +24,7 @@
   margin-right: 6rem;
   margin-bottom: 4rem;
   background-color: black;
-  padding: auto;
+  padding: 0%;
   border: solid 2px black;
   flex-direction: row-reverse;
 }
@@ -95,4 +96,10 @@ h4 {
   justify-content: space-around;
   background-color: black;
   color: gray;
+}
+body {
+  background-color: rgb(198, 197, 185);
+}
+legend {
+  color: white;
 }
