@@ -114,6 +114,9 @@ h4 {
   img {
     opacity: 0;
   }
+  .articulo {
+    font-size: 5px;
+  }
 }
 .find {
   display: flex;
@@ -206,6 +209,7 @@ article {
 .iframe__funciones {
   text-align: center;
   background-color: gray;
+  position: relative;
 }
 
 /*# sourceMappingURL=style.css.map */
