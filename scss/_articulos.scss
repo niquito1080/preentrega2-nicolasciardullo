@@ -26,7 +26,7 @@
   font-family: "East Sea Dokdo", cursive;
   font-family: "Nova Mono", monospace;
   font-family: "Seymour One", sans-serif;
-  background-color: black;
+  background-color: $color-fondo;
   color: gray;
   border: 15% 20%;
   border-color: red;
@@ -34,7 +34,7 @@
 
 .ayuda {
   background-color: rgb(198, 197, 185);
-  color: black;
+  color: $color-fondo;
   display: flex;
   justify-content: center;
   font-size: larger;
@@ -42,6 +42,7 @@
   font-family: "Nova Mono", monospace;
   font-family: "Seymour One", sans-serif;
 }
+/* variables */
 article {
   background-color: $color-fondo;
   color: $color-texto;
